@@ -1,0 +1,10 @@
+{
+    "id": "transaction-duplicator",
+    "name": "Transaction Duplicator",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Duplicate transaction files with automatic date updates",
+    "author": "Marek Jeszka",
+    "isDesktopOnly": false
+}
+
